@@ -402,7 +402,7 @@ sections:
           textAlign: right
     subtitle: Data Storytelling in Medium
     actions:
-      - label: Get started
+      - label: Visit the page
         url: /
         icon: arrowRight
         iconPosition: right

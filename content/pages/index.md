@@ -207,7 +207,7 @@ sections:
       type: TitleBlock
     items:
       - title: Core Track of Data Analytics Course
-        subtitle: This is the item subtitle
+        subtitle: 'Refocus Digital Academy, March 2023'
         image:
           url: /images/asasa.png
           altText: Placeholder Image

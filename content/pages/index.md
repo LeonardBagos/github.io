@@ -271,8 +271,6 @@ sections:
             elementId: ''
       - title: Power BI in Data Analytics
         subtitle: 'PWC thru Forage, March 2023'
-        text: |
-          Learn from the tutorial and build your first awesome Stackbit site.
         image:
           url: /images/Screenshot 2023-04-02 005842.png
           altText: Placeholder image

@@ -238,8 +238,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - title: Feature Item Two
-        subtitle: This is the item subtitle
+      - subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Stackbit site.
         image:

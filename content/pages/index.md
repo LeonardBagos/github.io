@@ -347,7 +347,7 @@ sections:
     type: FeaturedItemsSection
   - type: GenericSection
     title:
-      text: Interact
+      text: Check out my Power BI Portfolio
       color: text-dark
       styles:
         self:

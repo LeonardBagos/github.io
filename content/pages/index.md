@@ -210,7 +210,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/asasa.png
           altText: Placeholder Image
           styles:
             self:

@@ -19,7 +19,7 @@ sections:
       </div>
 
     actions:
-      - label: Get started
+      - label: About Me
         altText: ''
         url: /
         showIcon: false

@@ -238,8 +238,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - subtitle: This is the item subtitle
-        text: |
+      - text: |
           Follow the tutorial to build your first awesome Stackbit site.
         image:
           url: /images/Screenshot 2023-04-02 004548.png

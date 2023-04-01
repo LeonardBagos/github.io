@@ -32,7 +32,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/Screenshot 2023-04-01 161700.png
   - type: CarouselSection
     title:
       type: TitleBlock

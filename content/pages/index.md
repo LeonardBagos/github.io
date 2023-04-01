@@ -269,7 +269,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - title: Feature Item Three
+      - title: Power BI in Data Analytics
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |

@@ -400,7 +400,7 @@ sections:
       styles:
         self:
           textAlign: right
-    subtitle: Be in good company
+    subtitle: Data Storytelling in Medium
     text: >
       A service that provides advice and guidance to startups and small
       businesses.

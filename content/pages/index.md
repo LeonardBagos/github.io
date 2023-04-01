@@ -365,7 +365,6 @@ sections:
         style: primary
         elementId: ''
     media:
-      title: Title of the video
       url: 'https://youtu.be/1B99ZkSaU9k'
       autoplay: false
       loop: true

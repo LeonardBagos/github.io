@@ -403,7 +403,6 @@ sections:
     subtitle: Data Storytelling in Medium
     actions:
       - label: Visit the page
-        url: /
         icon: arrowRight
         iconPosition: right
         style: secondary

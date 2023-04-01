@@ -131,7 +131,6 @@ sections:
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
     showThumbnail: true
     showDate: true
     showAuthor: true

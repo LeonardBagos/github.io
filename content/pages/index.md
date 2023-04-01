@@ -96,36 +96,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - type: FeaturedItemsSection
-    title:
-      text: MY PROJECTS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    items: []
-    actions: []
-    badge:
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md

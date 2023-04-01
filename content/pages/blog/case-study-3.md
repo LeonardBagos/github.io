@@ -1,6 +1,6 @@
 ---
 title: Cleaning the Dirtiest Data I’ve Seen Using Deep SQL and Power BI Knowledge
-slug: case-study-3
+slug: project3
 date: '2023-03-27'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,

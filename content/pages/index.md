@@ -428,9 +428,7 @@ sections:
   - type: CarouselSection
     title: null
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: "“Without\_data\_you’re just another person with an opinion.”"
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

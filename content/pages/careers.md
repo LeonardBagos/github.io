@@ -56,8 +56,7 @@ sections:
         self:
           textAlign: center
     items:
-      - subtitle: 'Jane Doe, Company'
-        text: >+
+      - text: >+
           Thank you for visiting my portfolio! I am a licensed Chemical Engineer
           turned Data Analyst with a passion for making sense of complex data
           and identifying trends to help drive informed decisions.

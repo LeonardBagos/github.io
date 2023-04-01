@@ -404,7 +404,7 @@ sections:
     actions:
       - label: Visit the page
         icon: arrowLeft
-        iconPosition: right
+        iconPosition: left
         style: secondary
         type: Button
         url: 'https://medium.com/@leonardbagos9'

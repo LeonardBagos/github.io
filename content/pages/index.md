@@ -165,7 +165,6 @@ sections:
       </div>
 
     media:
-      title: Title of the video
       url: 'https://youtu.be/fQZRdidd12E'
       controls: false
       aspectRatio: '16:9'

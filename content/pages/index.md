@@ -259,6 +259,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        title: Daa
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle

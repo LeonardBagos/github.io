@@ -152,6 +152,9 @@ sections:
       type: TitleBlock
       text: MY PROJECTS
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title:
       text: >-
         How Data Analysis Helped Me Reduce Rejection Rates in My Previous

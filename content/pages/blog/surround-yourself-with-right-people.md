@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/sdd-dec7df98.PNG
   styles:
     self:
       borderRadius: medium

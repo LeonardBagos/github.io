@@ -295,7 +295,7 @@ sections:
             altText: ''
             url: >-
               https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_iLykWE4TBcoRjmazn_1678261167846_completion_certificate.pdf
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary

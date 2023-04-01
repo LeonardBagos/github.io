@@ -75,7 +75,7 @@ sections:
       - url: /images/power bi.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/tableau.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg

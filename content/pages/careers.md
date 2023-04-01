@@ -30,7 +30,7 @@ sections:
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: no-repeat
+      backgroundRepeat: repeat-x
       opacity: 100
       url: /images/Screenshot 2023-04-01 161700.png
   - type: CarouselSection

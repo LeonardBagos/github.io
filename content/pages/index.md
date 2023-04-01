@@ -149,7 +149,9 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - title:
-      text: Grow your business 10x faster
+      text: >-
+        How Data Analysis Helped Me Reduce Rejection Rates in My Previous
+        Company
       color: text-dark
       styles:
         self:

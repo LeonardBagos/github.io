@@ -2,8 +2,8 @@
 title: >-
   An Exploratory Analysis of Client Disputes Using Excel Functions and SQL
   Queries
-slug: case-study-2
-date: '2022-02-16'
+slug: project2
+date: '2023-03-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.

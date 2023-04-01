@@ -215,7 +215,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:

@@ -98,7 +98,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Proficient on the following programs
+      text: 'Proficient on the following programs:'
       color: text-dark
   - posts:
       - content/pages/blog/case-study-1.md

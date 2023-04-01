@@ -430,10 +430,9 @@ sections:
     items:
       - title: "“Without\_data\_you’re just another person with an opinion.”"
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Statistician, Professor, Author, Lecturer, and Consultant
+
         image:
           url: /images/ssa.png
           altText: Maria Walters

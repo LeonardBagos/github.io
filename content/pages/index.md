@@ -193,7 +193,7 @@ sections:
         flexDirection: col
         justifyContent: center
       subtitle:
-        textAlign: left
+        textAlign: center
     type: GenericSection
   - type: GenericSection
     title:

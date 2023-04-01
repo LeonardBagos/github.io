@@ -199,7 +199,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: List of features here
+      text: Certificates
       color: text-primary
       styles:
         self:

@@ -46,6 +46,17 @@
                     "elementId": ""
                 },
                 {
+                    "type": "Link",
+                    "label": "YouTube",
+                    "altText": "YouTube",
+                    "url": "https://www.youtube.com/@leonardbagos3619/videos",
+                    "showIcon": true,
+                    "icon": "youtube",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
                     "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",

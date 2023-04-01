@@ -105,35 +105,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Subtitle goes here
-    items:
-      - title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon1.svg
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        type: FeaturedItem
+    items: []
     actions:
       - label: Get started
         altText: ''

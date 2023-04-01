@@ -3,9 +3,8 @@ title: How Data Analysis Helped Me Reduce Rejection Rates in My Previous Company
 slug: project1
 date: '2023-03-15'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  How did I reduce a particular product's rejection rate by 50%, leading to a
+  16% decrease in overall rejection in my previous company?
 featuredImage:
   url: /images/pic1.png
   altText: Thumbnail

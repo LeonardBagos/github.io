@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Calculating Business Metrics For Delivery Company Using Dax Measures
-slug: track-the-right-analytics-for-your-business
+slug: project6
 date: '2023-02-20'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus

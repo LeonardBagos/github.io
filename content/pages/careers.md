@@ -50,7 +50,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: About Me
       color: text-dark
     items:
       - subtitle: 'Jane Doe, Company'

@@ -383,6 +383,7 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: VideoBlock
+      title: Olist Dashboard
     elementId: null
     colors: bg-light-fg-dark
     styles:

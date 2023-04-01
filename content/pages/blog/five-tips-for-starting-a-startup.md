@@ -25,6 +25,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    textAlign: center
 author: content/data/person6.json
 type: PostLayout
 ---

@@ -209,8 +209,6 @@ sections:
       - title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Stackbit site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image

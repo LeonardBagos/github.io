@@ -234,7 +234,7 @@ sections:
             altText: ''
             url: >-
               https://drive.google.com/file/d/1aDWwt6FV-h0BQHGk0iNKRH7DWfNefc3a/view?usp=share_link
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary

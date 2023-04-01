@@ -1,6 +1,6 @@
 ---
 title: "Analysis of the Operating performance for\_ Ecommerce Company"
-slug: top-twenty-ways-to-save-time
+slug: project4
 date: '2023-03-25'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis

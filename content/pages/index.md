@@ -356,7 +356,7 @@ sections:
     subtitle: Interact with my Power BI Dashboards here..
     actions:
       - type: Button
-        label: Get started
+        label: Visit my portfolio
         altText: ''
         url: 'https://www.novypro.com/profile_projects/leonardbagos'
         showIcon: false

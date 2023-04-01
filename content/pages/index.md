@@ -206,7 +206,7 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Feature Item One
+      - title: Core Track of Data Analytics Course
         subtitle: This is the item subtitle
         image:
           url: /images/asasa.png

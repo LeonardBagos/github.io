@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2023-01-18'
+date: '2023-03-08'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos

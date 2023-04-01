@@ -270,7 +270,7 @@ sections:
             style: secondary
             elementId: ''
       - title: Power BI in Data Analytics
-        subtitle: This is the item subtitle
+        subtitle: 'PWC thru Forage, March 2023'
         text: |
           Learn from the tutorial and build your first awesome Stackbit site.
         image:

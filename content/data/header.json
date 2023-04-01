@@ -58,7 +58,6 @@
                 },
                 {
                     "label": "Medium",
-                    "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",

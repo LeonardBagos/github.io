@@ -155,6 +155,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
   - title:
       text: >-
         How Data Analysis Helped Me Reduce Rejection Rates in My Previous

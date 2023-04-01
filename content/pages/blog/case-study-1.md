@@ -1,6 +1,6 @@
 ---
 title: How Data Analysis Helped Me Reduce Rejection Rates in My Previous Company
-slug: case-study-1
+slug: project1
 date: '2023-01-15'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,

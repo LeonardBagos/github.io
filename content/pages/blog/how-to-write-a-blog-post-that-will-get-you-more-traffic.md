@@ -59,6 +59,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+    textAlign: center
 author: content/data/person4.json
 ---
 

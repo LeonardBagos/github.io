@@ -257,6 +257,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
         title: Data Analytics and Visualization
+        subtitle: Accenture thru Forage
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle

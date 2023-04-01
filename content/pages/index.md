@@ -294,7 +294,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Data Analytics Virtual Internship Program
-        subtitle: This is the item subtitle
+        subtitle: 'KPMG thru Forage, March 2023'
         image:
           url: /images/Screenshot 2023-04-02 005309.png
           altText: Placeholder text

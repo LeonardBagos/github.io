@@ -155,7 +155,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: "How Data Analysis Helped Me Reduce Rejection Rates in\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ My Previous Company"
+    subtitle: "How Data Analysis Helped Me Reduce Rejection Ratesin\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ My Previous Company"
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet

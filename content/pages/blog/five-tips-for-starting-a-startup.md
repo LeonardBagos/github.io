@@ -1,5 +1,5 @@
 ---
-title: 5 Tips for Starting a Startup
+title: "Analysis of the Operating performance for\_ Ecommerce Company"
 slug: project4
 date: '2023-03-18'
 excerpt: >-

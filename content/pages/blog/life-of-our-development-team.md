@@ -1,10 +1,7 @@
 ---
 slug: project2
 date: '2023-03-05'
-excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+excerpt: 'Tools: Excel, SQL'
 featuredImage:
   url: /images/logo-9d59a6a7.png
   altText: Thumbnail

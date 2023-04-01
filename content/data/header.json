@@ -35,13 +35,6 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",

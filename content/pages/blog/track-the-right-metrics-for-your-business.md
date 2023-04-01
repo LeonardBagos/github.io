@@ -61,9 +61,78 @@ styles:
     flexDirection: col
     textAlign: center
 ---
+Calculating some business metrics such as average delivery time using dax measures in Power BI
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+![](https://cdn-images-1.medium.com/max/800/1*0bxCT9pZI8G8mRLHn7Ca4A.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+Interact with the dashboard here:<https://www.novypro.com/project/indianfooddelivery>
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+**Task Description:**
+
+You work as a data analyst in an Indian delivery company. Top managers want to expand the business to other countries in Asia, so they asked you to make a report about delivery time to compare the company’s performance with competitors. Data is presented in a .csv file, with fields such as time of delivery, order date, traffic, weather, location, and other information.
+
+**Data Analysis Goals**
+
+Build a dashboard showing how vehicle type, type of order, weather conditions, and road traffic affect the average time taken for delivery.
+
+Calculate the following measures and add them to the dashboard:
+
+a. The median time that is taken for delivery
+
+b. Average time for delivery for sunny and stormy weather
+
+c. Difference between the average delivery time of ordinary scooters and motorcycle
+
+**Data Preparation**
+
+The first column to clean is the *Weatherconditions* column. Just transform the column and then **Extract using Text After Delimiter** option. Next, extract the time in the *Time_taken(min)* column using Text after Delimiter as well. I also changed the *time_taken(min)* column to time data type.
+
+The *Order_Date* and *Time_ordered* columns are in text data type so change them to date and time respectively. After changing the data type of *Time_ordered* column, there are a lot of errors due to null empty values. Select all cells and then right-click, then chose Remove Errors. For *type_of_vehicle* column, replace the values for *electric_scooter* to *electric scooter*.
+
+Lastly, delete columns that are not relevant.
+
+**Analysis**
+
+Create the required measures using DAX analysis.
+
+a. **The median time that is taken for delivery**
+
+![](https://cdn-images-1.medium.com/max/800/1*PkS6PLDIRr4WnxxyZKBe5g.png)
+
+b. **Average time for delivery for sunny and stormy weather**
+
+Average delivery time for Sunny
+
+![](https://cdn-images-1.medium.com/max/800/1*ipSJykgFWae_juCSvHc0SQ.png)
+
+Average delivery time for Stormy![](https://cdn-images-1.medium.com/max/800/1*AgOZ7Wbm4Q4n6aYhmDBp1g.png)
+
+c. **Difference between the average delivery time of ordinary scooters and motorcycle**
+
+Average Delivery Time for Motorcycles
+
+![](https://cdn-images-1.medium.com/max/800/1*Xy1L_y-cqJRh0ZjsXWaLgg.png)
+
+Average Delivery Time for Scooter![](https://cdn-images-1.medium.com/max/800/1*CnejYe7_GDTfo7MIru3s7w.png)
+
+Difference between average delivery time for motor and scooter
+
+![](https://cdn-images-1.medium.com/max/800/1*4zQhCwMG5ax4YSkvJ-dCxw.png)
+
+After calculating the required measure, create your dashboard and add these measures.
+
+![](https://cdn-images-1.medium.com/max/800/1*0bxCT9pZI8G8mRLHn7Ca4A.png)
+
+You can gain direct insights from the dashboard above. Try making your own.
+
+**Recommendations:**
+
+*As a data analyst, what would you suggest to the delivery company so they can collect better data and get more precise results?*
+
+It is important to have well-defined data collection processes in place that specify what data should be collected, how it should be collected, and who is responsible for collecting it. This will ensure consistency in data collection and reduce errors and discrepancies.
+
+Delivery companies should leverage technology to collect data, such as using GPS tracking devices, barcodes, and scanners to track deliveries and shipments. This will help to automate data collection, reduce manual errors, and increase accuracy.
+
+Delivery companies should ensure that data is accurate, complete, and up-to-date. This involves regular data cleansing and validation processes to eliminate errors and inconsistencies. Data visualization tools can help delivery companies interpret complex data and communicate insights more effectively. This can enable decision-makers to make more informed decisions based on data-driven insights.
+
+By implementing these suggestions, delivery companies can improve their data collection processes, obtain more precise results, and make more informed decisions based on data-driven insights.

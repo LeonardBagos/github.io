@@ -49,7 +49,6 @@ sections:
       url: /images/abstract-background.svg
   - type: CarouselSection
     title: null
-    subtitle: This is a subtitle
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing

@@ -2,7 +2,7 @@
 type: PostLayout
 title: Calculating Business Metrics For Delivery Company Using Dax Measures
 slug: project6
-date: '2023-02-20'
+date: '2023-03-14'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos

@@ -289,6 +289,17 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_iLykWE4TBcoRjmazn_1678261167846_completion_certificate.pdf
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - type: FeaturedItem
         title: Data Analytics Virtual Internship Program
         subtitle: 'KPMG thru Forage, March 2023'

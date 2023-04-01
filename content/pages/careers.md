@@ -52,6 +52,9 @@ sections:
       type: TitleBlock
       text: About Me
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     items:
       - subtitle: 'Jane Doe, Company'
         text: >-

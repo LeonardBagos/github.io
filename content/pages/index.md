@@ -81,8 +81,7 @@ sections:
       - url: /images/python.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - altText: Sanity logo
         type: ImageBlock

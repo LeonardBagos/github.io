@@ -26,7 +26,6 @@ styles:
   self:
     flexDirection: col
     textAlign: center
-author: content/data/person6.json
 type: PostLayout
 ---
 ![](/images/Screenshot%202023-03-09%20202510.png)

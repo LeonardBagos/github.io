@@ -466,7 +466,7 @@ sections:
       text: 'If you have problems with your data, let me analyze them for you!'
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: 'Email: leonardbagos9@gmail.com'
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet

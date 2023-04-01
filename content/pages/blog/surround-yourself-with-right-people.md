@@ -1,5 +1,5 @@
 ---
-slug: surround-yourself-with-right-people
+slug: project3
 date: '2023-03-27'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.

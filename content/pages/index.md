@@ -108,7 +108,6 @@ sections:
     items: []
     actions: []
     badge:
-      label: This is a badge
       color: text-primary
       styles:
         self:

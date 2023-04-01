@@ -1,6 +1,6 @@
 ---
 title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
-slug: top-ten-lessons-we-learned
+slug: project1
 date: '2021-08-25'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus

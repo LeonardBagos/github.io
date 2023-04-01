@@ -429,7 +429,7 @@ sections:
     title: null
     items:
       - title: "“Without\_data\_you’re just another person with an opinion.”"
-        subtitle: 'Maria Walters, Company'
+        subtitle: W. Edwards Deming
         text: |+
           Statistician, Professor, Author, Lecturer, and Consultant
 

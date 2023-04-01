@@ -58,7 +58,7 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: col-reverse
+    flexDirection: col
     textAlign: center
 author: content/data/person5.json
 ---

@@ -30,9 +30,8 @@ bottomSections:
   - items:
       - title: Leonard Bagos
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          “Without big data, you are blind and deaf and in the middle of a
+          freeway.” — Geoffrey Moore.
         image:
           url: /images/cxcz-d69d04ec.png
           altText: Company logo

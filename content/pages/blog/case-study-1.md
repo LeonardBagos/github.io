@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: How Data Analysis Helped Me Reduce Rejection Rates in My Previous Company
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-

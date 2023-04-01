@@ -28,8 +28,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
+      - altText: ''
         url: /
         showIcon: true
         icon: arrowRight

@@ -150,7 +150,7 @@ sections:
     type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: MY PROJECTS
       color: text-dark
   - title:
       text: >-

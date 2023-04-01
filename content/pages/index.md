@@ -36,6 +36,7 @@ sections:
         style: primary
         elementId: ''
         type: Link
+        label: Download CV
     media:
       url: /images/photo.png
       altText: Unblock your team boost your time to production preview

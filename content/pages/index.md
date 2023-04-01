@@ -207,7 +207,6 @@ sections:
       type: TitleBlock
     items:
       - title: Feature Item One
-        tagline: This is the tagline
         subtitle: This is the item subtitle
         image:
           url: /images/asasa.png

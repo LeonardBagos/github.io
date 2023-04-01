@@ -427,7 +427,6 @@ sections:
     type: GenericSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing

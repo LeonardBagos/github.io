@@ -67,8 +67,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-feature2.svg
-  - subtitle: 'Proficient on the following Programs:'
-    images:
+  - images:
       - url: /images/sql.png
         altText: Empathy logo
         type: ImageBlock

@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Track the right analytics for your business
+title: Calculating Business Metrics For Delivery Company Using Dax Measures
 slug: track-the-right-analytics-for-your-business
 date: '2023-02-20'
 excerpt: >-

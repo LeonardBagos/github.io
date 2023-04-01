@@ -59,6 +59,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row-reverse
+    textAlign: center
 author: content/data/person5.json
 ---
 

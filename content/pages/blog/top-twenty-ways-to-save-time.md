@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the Operating performance for\_ Ecommerce Company"
 slug: project4
-date: '2023-03-25'
+date: '2023-02-20'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia

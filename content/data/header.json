@@ -61,7 +61,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "url": "https://medium.com/@leonardbagos9"
                 },
                 {
                     "label": "Dropdown item",

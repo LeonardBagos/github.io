@@ -227,6 +227,17 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1aDWwt6FV-h0BQHGk0iNKRH7DWfNefc3a/view?usp=share_link
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle

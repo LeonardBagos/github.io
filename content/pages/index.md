@@ -359,7 +359,7 @@ sections:
         label: Visit my portfolio
         altText: ''
         url: 'https://www.novypro.com/profile_projects/leonardbagos'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary

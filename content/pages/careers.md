@@ -57,10 +57,34 @@ sections:
           textAlign: center
     items:
       - subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Thank you for visiting my portfolio! I am a licensed Chemical Engineer
+          turned Data Analyst with a passion for making sense of complex data
+          and identifying trends to help drive informed decisions.
+
+
+          Before venturing into the world of data, I worked as a Quality
+          Assurance Analyst, where I developed a keen eye for detail and a love
+          for optimizing processes. As a Chemical Engineer, I have a natural
+          tendency to approach problems analytically and methodically, a habit
+          that has translated seamlessly into my current role as a Data Analyst.
+
+
+          In addition to my professional experience, I also have some quirky
+          habits that are characteristic of both a Chemical Engineer and a Data
+          Analyst. I have a penchant for keeping my workspace neat and
+          organized, and I’m not afraid to experiment and try new things to see
+          what works best. I also have a love for all things data-related,
+          whether it’s digging through datasets or creating beautiful
+          visualizations.
+
+
+          Thank you for taking the time to learn a bit more about me. I am
+          excited to continue exploring the world of data and applying my skills
+          to help organizations make data-driven decisions.
+
+
+
         actions: []
         colors: bg-dark-fg-light
         styles:

@@ -366,7 +366,7 @@ sections:
         elementId: ''
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/1B99ZkSaU9k'
       autoplay: true
       loop: true
       muted: true

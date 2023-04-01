@@ -1,6 +1,6 @@
 ---
 title: A Day in the Life of Our Development Team
-slug: life-of-our-development-team
+slug: project2
 date: '2023-03-27'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut

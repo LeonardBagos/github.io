@@ -347,7 +347,7 @@ sections:
     type: FeaturedItemsSection
   - type: GenericSection
     title:
-      text: Ge
+      text: Interact
       color: text-dark
       styles:
         self:

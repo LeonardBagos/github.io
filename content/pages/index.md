@@ -69,7 +69,7 @@ sections:
       url: /images/abstract-background.svg
   - subtitle: 'Proficient on the following Programs:'
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/sql.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg

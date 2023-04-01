@@ -269,7 +269,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - title: Power BI in Data Analytics
+      - title: Power BI in Data Analytics Virtual Program
         subtitle: 'PWC thru Forage, March 2023'
         image:
           url: /images/Screenshot 2023-04-02 005842.png

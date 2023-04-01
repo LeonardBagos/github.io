@@ -517,6 +517,9 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      self:
+        alignItems: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Stackbit

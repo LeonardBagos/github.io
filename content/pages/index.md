@@ -148,6 +148,10 @@ sections:
           - pr-16
         justifyContent: center
     type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - title:
       text: >-
         How Data Analysis Helped Me Reduce Rejection Rates in My Previous

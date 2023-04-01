@@ -291,7 +291,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: View Certificate
             altText: ''
             url: >-
               https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_iLykWE4TBcoRjmazn_1678261167846_completion_certificate.pdf

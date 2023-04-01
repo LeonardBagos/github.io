@@ -275,7 +275,7 @@ sections:
         text: |
           Learn from the tutorial and build your first awesome Stackbit site.
         image:
-          url: /images/Screenshot 2023-04-02 005309.png
+          url: /images/Screenshot 2023-04-02 005842.png
           altText: Placeholder image
           styles:
             self:

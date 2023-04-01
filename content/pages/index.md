@@ -166,7 +166,7 @@ sections:
 
     media:
       url: 'https://youtu.be/fQZRdidd12E'
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:

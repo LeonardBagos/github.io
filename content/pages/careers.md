@@ -3,7 +3,6 @@ title: About Me
 slug: aboutme
 sections:
   - title:
-      text: A team that works closely together
       color: text-dark
       styles:
         self:

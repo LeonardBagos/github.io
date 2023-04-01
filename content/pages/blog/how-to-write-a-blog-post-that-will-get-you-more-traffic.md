@@ -59,7 +59,6 @@ styles:
   self:
     flexDirection: col
     textAlign: center
-author: content/data/person4.json
 title: "PWC Virtual Experience: Call Center Trend\_ Analysis"
 ---
 

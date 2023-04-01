@@ -28,9 +28,8 @@ bottomSections:
   - items:
       - title: Leonard Bagos
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          “Data analytics can reveal trends and patterns that may otherwise go
+          unnoticed amongst the mass of information organizations hold.”
         image:
           url: /images/cxcz.png
           altText: Company logo

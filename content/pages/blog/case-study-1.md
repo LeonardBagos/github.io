@@ -33,7 +33,7 @@ bottomSections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/new-4fb4338a.png
+          url: /images/cxcz.png
           altText: Company logo
           styles:
             self:

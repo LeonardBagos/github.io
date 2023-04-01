@@ -367,7 +367,7 @@ sections:
     media:
       title: Title of the video
       url: 'https://youtu.be/1B99ZkSaU9k'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: true

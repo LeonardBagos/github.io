@@ -21,7 +21,7 @@ sections:
     actions:
       - label: About Me
         altText: ''
-        url: /
+        url: /careers
         showIcon: false
         icon: arrowRight
         iconPosition: right

@@ -13,39 +13,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-content: >-
-  Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-  efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
-  id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet
-  venenatis.
-
-
-  > Vestibulum ullamcorper risus auctor eleifend consequat.
-
-
-  ![Placeholder
-  Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
-  In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl
-  elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada
-  sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis
-  elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere
-  quam.
-
-
-  Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum,
-  vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod
-  metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in,
-  lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem
-  ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur
-  nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum.
-  Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet
-  venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut,
-  egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada
-  sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris
-  gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
-  justo.
+content: "> *A Case Study from PwC Switzerland: Power BI Virtual Experience*\n\n![](https://miro.medium.com/v2/resize:fit:700/1*UoDuXrOeO8SzLUtTHfqWLg.png)\n\nInteract with the dashboard here:\_<https://www.novypro.com/project/pwccallcentertrend>\n\nThe digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.\n\n> **Task:**\n\nIt’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:\n\n![](https://miro.medium.com/v2/resize:fit:700/0*pic605yUKgnchwkF.png)\n\nCreate a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!\n\n**Possible KPIs include (to get you started, but not limited to):**\n\n*   Overall customer satisfaction\n\n*   Overall calls answered/abandoned\n\n*   Calls by time\n\n*   Average speed of answer\n\n*   Agent’s performance quadrant -> average handle time (talk duration) vs calls answered\n\n> **Process:**\n\nFirst, import the data to Power BI. Before we load the data, we need to make sure that the data is clean. Click Transform Data.\n\nI noticed that there are a lot of null values for the\_*speed of answer in the second’s\_*column, so I filtered to only show the null values and observed the data. As I can see in the filtered data, all calls were not answered therefore having null values for the average talk duration is valid. I didn’t change the null values to 0 because if the agent failed to answer the call, then there shouldn’t be any values for average talk duration and satisfaction rating. Making it zero will affect their KPI.\n\n![](https://miro.medium.com/v2/resize:fit:700/0*Q9hyBtDRs-xaHZ79.png)\n\nI noticed the\_*AvgTalkDuration*\_column is in Date/Time format which should be in duration. Change the data type to Time only, and then I added a new custom column and then subtracted the\_*AvgTalkDuration*\_column by 00:00:00.\n\n![](https://miro.medium.com/v2/resize:fit:700/0*WQjfUrpGqCTg7aRV.png)\n\nI renamed the new column to\_*Average Talk Duration*\_and changed the data type to duration and then show only seconds. The time column has date values in it, so I changed the data type to Time only.\n\n> Analysis:\n\nI have created measures to answer the questions and provide different KPI or metrics. To summarize all the stats of the agents, I decided to insert a table that will show their total calls, answered calls, queue time, call time, % Answered Calls and overall satisfaction rating.\n\n![](https://miro.medium.com/v2/resize:fit:700/1*yuc8GlGq7ONwcKEJom5Gmg.png)\n\nThen, I created a column and bar chart that shows the total calls, answered calls and resolved calls. It shows that every Monday and Saturday, agents have higher resolved calls than the rest of the day of the week.\n\n![](https://miro.medium.com/v2/resize:fit:700/1*BKiLlEUpyjLvPJoO7nG6Dw.png)\n\nThe last visualization is a doughnut chart showing all the call topics.\n\n![](https://miro.medium.com/v2/resize:fit:265/1*tEGeT1UEzx5UkLFjb8Yzfw.png)\n\nFinally, I designed the dashboard and created the background using PowerPoint. Here is the final result:\n\n![](https://miro.medium.com/v2/resize:fit:700/1*UoDuXrOeO8SzLUtTHfqWLg.png)\n\n> Insights:\n\nBased on the analysis, it appears that this call center has a relatively high rate of abandoned calls and a low overall satisfaction rating. This suggests that there may be issues with the call center’s ability to handle the volume of calls it receives, as well as potential problems with the quality of service provided to customers. Improving the call center’s answer rate and average response time, as well as increasing customer satisfaction, may be necessary to ensure the success of the business.\n\n> Recommendations:\n\n1.  Identify and address the root cause of the high rate of abandoned calls. This could be due to a variety of factors, such as long wait times, complicated issues, or a lack of available agents. Once the underlying issue has been identified, steps can be taken to improve the call center’s performance.\n\n2.  Increase the number of available agents to handle the volume of calls. This could involve hiring additional agents, implementing a system for routing calls to multiple call centers, or utilizing technology such as virtual agents or chatbots to assist with customer inquiries.\n\n3.  Improve the call center’s average response time. This could be achieved through training and coaching for agents, implementing more efficient processes and technologies, or increasing the number of available agents to reduce wait times for customers.\n\n4.  Focus on increasing customer satisfaction. This could involve regularly surveying customers to gather feedback and identify areas for improvement, implementing customer service best practices, and providing ongoing training and support for call center agents.\n\n5.  Consider implementing a call-back system for abandoned calls. This could allow customers who are unable to wait on hold to leave their contact information and request a call back at a more convenient time. This could help to reduce the number of abandoned calls and improve the overall customer experience.\n\n\n\n\n\n"
 bottomSections: []
 isFeatured: true
 isDraft: false

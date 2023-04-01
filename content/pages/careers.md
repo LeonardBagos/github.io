@@ -48,7 +48,10 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - type: CarouselSection
-    title: null
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     items:
       - subtitle: 'Jane Doe, Company'
         text: >-

@@ -67,7 +67,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 'Proficient on the following Programs:'
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo

@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
+slug: project5
 date: '2023-03-08'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus

@@ -397,6 +397,9 @@ sections:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: right
     subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small

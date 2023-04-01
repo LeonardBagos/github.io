@@ -1,5 +1,5 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: How Data Analysis Helped Me Reduce Rejection Rates in My Previous Company
 slug: project1
 date: '2021-08-25'
 excerpt: >-

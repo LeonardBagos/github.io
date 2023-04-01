@@ -394,7 +394,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: Check out more Blogs here
       color: text-dark
       type: TitleBlock
       styles:

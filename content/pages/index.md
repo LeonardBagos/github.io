@@ -293,7 +293,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: Feature Item One
+        title: Data Analytics Virtual Internship Program
         subtitle: This is the item subtitle
         image:
           url: /images/Screenshot 2023-04-02 005309.png

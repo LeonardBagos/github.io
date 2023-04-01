@@ -50,10 +50,7 @@ sections:
   - type: CarouselSection
     title: null
     items:
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Stackbit.”
-        subtitle: 'Jane Doe, Company'
+      - subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

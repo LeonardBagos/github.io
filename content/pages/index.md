@@ -407,6 +407,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        url: 'https://medium.com/@leonardbagos9'
     media:
       url: /images/x.PNG
       altText: Dope design preview

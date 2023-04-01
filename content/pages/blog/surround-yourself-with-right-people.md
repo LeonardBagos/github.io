@@ -1,9 +1,7 @@
 ---
 slug: project3
 date: '2023-03-27'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 'Tools: Power BI, SQL'
 featuredImage:
   altText: Thumbnail
   type: ImageBlock

@@ -182,7 +182,6 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
       color: text-primary
       styles:
         self:

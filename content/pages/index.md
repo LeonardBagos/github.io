@@ -183,6 +183,7 @@ sections:
       autoplay: true
       loop: true
       muted: true
+      title: Rejection Reduction Dashbpard
     badge:
       color: text-primary
       styles:

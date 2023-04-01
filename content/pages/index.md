@@ -237,7 +237,7 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
       - title: Feature Item Two
         tagline: This is the tagline

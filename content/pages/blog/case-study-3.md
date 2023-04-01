@@ -28,9 +28,8 @@ bottomSections:
   - items:
       - title: Leonard Bagos
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          “You can have data without information, but you cannot have
+          information without data.” — Daniel Keys Moran
         image:
           url: /images/cxcz-4408d4ba.png
           altText: Company logo

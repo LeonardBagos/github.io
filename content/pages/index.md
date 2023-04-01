@@ -244,7 +244,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Stackbit site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Screenshot 2023-04-02 004548.png
           altText: Placeholder image
           styles:
             self:

@@ -78,7 +78,7 @@ sections:
       - url: /images/tableau.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/python.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg

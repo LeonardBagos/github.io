@@ -98,7 +98,7 @@ sections:
     type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: MY PROJECTS
       color: text-dark
       styles:
         self:

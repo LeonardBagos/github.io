@@ -8,7 +8,6 @@ topSections:
       text: How Data Analytics Helped my Life..
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true

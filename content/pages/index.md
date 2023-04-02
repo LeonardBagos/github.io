@@ -7,6 +7,9 @@ sections:
       text: LEONARD BAGOS
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Data Analyst
     text: >+
       <div style="text-align: center">Welcome to my online portfolio! I am a

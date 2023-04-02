@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: How Data Analytics Helped my Life..
+      text: How Data Analytics Changed my Life..
       color: text-dark
       type: TitleBlock
     posts:

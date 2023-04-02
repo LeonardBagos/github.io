@@ -409,7 +409,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: center
       subtitle:
-        textAlign: right
+        textAlign: center
     type: GenericSection
   - type: CarouselSection
     title: null

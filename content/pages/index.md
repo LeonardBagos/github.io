@@ -377,7 +377,7 @@ sections:
         justifyContent: center
         alignItems: center
       subtitle:
-        textAlign: left
+        textAlign: center
   - title:
       text: Check out more Blogs here
       color: text-dark

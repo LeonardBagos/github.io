@@ -72,7 +72,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-feature3.svg
+      url: /images/abstract-feature1.svg
   - images:
       - url: /images/sql.png
         altText: Empathy logo

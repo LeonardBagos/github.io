@@ -34,7 +34,7 @@ sections:
         type: Button
       - altText: ''
         url: >-
-          https://drive.google.com/file/d/18io0j_TsBOshiSUWKx7KTy5YYpw3r1Q4/view?usp=sharing
+          https://drive.google.com/file/d/1jqyKX9bW_cp6YjibRFBIvPsq2Kyt7NXr/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right

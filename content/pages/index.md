@@ -71,7 +71,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 73
       url: /images/abstract-feature1.svg
   - images:
       - url: /images/sql.png

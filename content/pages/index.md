@@ -64,6 +64,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image

@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: How Data Analytics Changed my Life..
+      text: How Data Analytics Changed My Life... It Can Change Yours Too!
       color: text-dark
       type: TitleBlock
       styles:

@@ -386,6 +386,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Data Storytelling in Medium
     actions:
       - label: Visit the page

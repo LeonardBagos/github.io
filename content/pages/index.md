@@ -337,6 +337,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: Interact with my Power BI Dashboards here..
     actions:

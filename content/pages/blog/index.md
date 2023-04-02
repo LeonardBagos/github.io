@@ -11,6 +11,7 @@ topSections:
       styles:
         self:
           fontStyle: italic
+          textAlign: center
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true

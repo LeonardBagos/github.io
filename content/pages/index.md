@@ -385,7 +385,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: right
+          textAlign: center
     subtitle: Data Storytelling in Medium
     actions:
       - label: Visit the page

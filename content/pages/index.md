@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Data Analyst
     text: >+
       <div style="text-align: center">Welcome to my online portfolio! I am a

@@ -336,7 +336,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
       type: TitleBlock
     subtitle: Interact with my Power BI Dashboards here..
     actions:

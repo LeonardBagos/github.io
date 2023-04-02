@@ -8,6 +8,9 @@ topSections:
       text: How Data Analytics Changed my Life..
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontStyle: italic
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true

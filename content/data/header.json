@@ -42,7 +42,8 @@
                     "icon": "linkedin",
                     "iconPosition": "left",
                     "style": "secondary",
-                    "elementId": ""
+                    "elementId": "",
+                    "url": "https://bit.ly/3m1Ja81"
                 },
                 {
                     "type": "Link",

@@ -398,7 +398,6 @@ sections:
         iconPosition: left
         style: primary
         type: Button
-        url: bit.ly/3GzgzOD
         showIcon: true
     media:
       url: /images/x.PNG

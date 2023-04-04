@@ -399,6 +399,7 @@ sections:
         style: primary
         type: Button
         showIcon: true
+        url: 'https://bit.ly/3GzgzOD'
     media:
       url: /images/x.PNG
       altText: Dope design preview

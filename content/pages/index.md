@@ -398,7 +398,7 @@ sections:
         iconPosition: left
         style: primary
         type: Button
-        url: 'https://medium.com/@leonardbagos9'
+        url: bit.ly/3GzgzOD
         showIcon: true
     media:
       url: /images/x.PNG

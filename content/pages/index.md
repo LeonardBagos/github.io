@@ -40,7 +40,8 @@ sections:
         elementId: ''
         type: Link
         label: Download CV
-        url: 'https://bit.ly/434kXOV'
+        url: >-
+          https://drive.google.com/file/d/1LrcA47L-QxUD7aqD_Rvkg-3VPEu53Ibs/view?usp=sharing
     media:
       url: /images/photo.png
       altText: Unblock your team boost your time to production preview

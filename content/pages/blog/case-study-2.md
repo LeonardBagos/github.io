@@ -93,8 +93,6 @@ Yellevate, a company that specializes in providing marketing services to mid-siz
 
 Disputes have resulted in a significant financial burden for the company. The statistics show that nearly** 20% of disputes** raised against Yellevate resulted in payment opt-outs, leading to a **5% annual loss of revenue.** Therefore, a thorough analysis will be of great importance to the company’s top executives, as it will be used to devise a plan to address the root causes of these disputes and minimize their impact on the company’s financial performance.
 
-![](https://preview--super-goose-0a036.stackbit.dev/images/logo-56678d68.png)
-
 > **OBJECTIVES:**
 
 The primary objective of this analysis is to identify the root causes of these disputes and propose actionable strategies to resolve them. It involves thoroughly examining this data to identify patterns and trends that might be contributing to these disputes.
@@ -215,15 +213,10 @@ Make sure that everything is clear: pricing, discounts, payment terms, agreement
 
 Here is the final interactive dashboard I have made on excel.
 
-![](https://preview--super-goose-0a036.stackbit.dev/images/sa-f49abb56.png)
+![](/images/sa.png)
 
 Kindly message me if you want have your own copy of the excel file.
 
 Check here the video recording of our full report:
 
 https://youtu.be/K7h5dKnGj1c
-
-
-
-
-

@@ -159,11 +159,5 @@ Here is the walkthrough in our dashboard:
 
 <https://youtu.be/fQZRdidd12E>
 
-
-
-
-
-
-
-
+![](/images/Dashboard.png)
 

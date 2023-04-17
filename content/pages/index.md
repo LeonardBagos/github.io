@@ -220,7 +220,6 @@ sections:
           - type: Button
             label: View Certificate
             altText: ''
-            url: '130972328'
             showIcon: true
             icon: arrowRight
             iconPosition: right

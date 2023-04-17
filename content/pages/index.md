@@ -220,8 +220,7 @@ sections:
           - type: Button
             label: View Certificate
             altText: ''
-            url: >-
-              https://drive.google.com/file/d/1aDWwt6FV-h0BQHGk0iNKRH7DWfNefc3a/view?usp=share_link
+            url: '130972328'
             showIcon: true
             icon: arrowRight
             iconPosition: right

@@ -21,9 +21,6 @@ sections:
       upskilling and staying up-to-date with the latest trends and technologies
       in this rapidly evolving field.</div>
 
-
-      </div>
-
     actions:
       - label: About Me
         altText: ''

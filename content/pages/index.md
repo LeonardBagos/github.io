@@ -19,7 +19,7 @@ sections:
       decisions. I  just transitioned into this career this year and started
       working as freelancing DA at Upwork. I’m dedicated to continuously
       upskilling and staying up-to-date with the latest trends and technologies
-      in this rapidly evolving field.</div>
+      in this rapidly evolving field. </div>
 
     actions:
       - label: About Me

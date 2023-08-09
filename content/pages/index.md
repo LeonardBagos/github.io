@@ -16,8 +16,10 @@ sections:
       <div style="text-align: center">Welcome to my online portfolio! I am a
       licensed Chemical Engineer turned Data Analyst with a passion for making
       sense of complex data and identifying trends to help drive informed
-      decisions. I’m dedicated to continuously upskilling and staying up-to-date
-      with the latest trends and technologies in this rapidly evolving field.
+      decisions. I  just transitioned into this career just this year and
+      started working as freelancing DA at Upwork. I’m dedicated to continuously
+      upskilling and staying up-to-date with the latest trends and technologies
+      in this rapidly evolving field.</div>
 
 
       </div>

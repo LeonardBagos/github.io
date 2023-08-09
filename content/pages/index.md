@@ -140,7 +140,7 @@ sections:
         type: ImageBlock
     badge: null
     elementId: ''
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     backgroundImage: null
     styles:

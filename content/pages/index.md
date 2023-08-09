@@ -130,7 +130,7 @@ sections:
     type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: MY PROJECTS
+      text: MY PERSONAL PROJECTS
       color: text-dark
       styles:
         self:

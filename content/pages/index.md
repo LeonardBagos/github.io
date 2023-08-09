@@ -91,7 +91,7 @@ sections:
       - url: /images/excel.png
         altText: Rangle logo
         type: ImageBlock
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:

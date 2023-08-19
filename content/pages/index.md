@@ -245,7 +245,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
         title: SQL for Business Users
-        subtitle: Accenture thru Forage
+        subtitle: SPARTA Data Science Pathway
         actions:
           - type: Button
             label: View Certificate

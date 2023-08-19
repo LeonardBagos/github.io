@@ -251,7 +251,7 @@ sections:
             label: View Certificate
             altText: ''
             url: >-
-              https://drive.google.com/drive/folders/1z7M-HPMZW0kRFYh6H3K_9o1L0behW
+              https://drive.google.com/file/d/1PU1HTarAYOYNl7ojSGHj5L67jYtyC6BV/view?usp=sharing
             showIcon: true
             icon: arrowRight
             iconPosition: right

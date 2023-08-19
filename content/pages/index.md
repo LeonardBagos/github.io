@@ -286,6 +286,8 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+            url: >-
+              https://drive.google.com/file/d/124adf6jWRWHbpr8Xj9LIL9nGPFnIMChx/view?usp=sharing
       - type: FeaturedItem
         title: Data Analytics Virtual Internship Program
         subtitle: 'KPMG thru Forage, March 2023'

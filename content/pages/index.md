@@ -260,7 +260,7 @@ sections:
       - title: Data Science and Analytics
         subtitle: 'SPARTA Data Science Pathway, Aug 2023'
         image:
-          url: /images/SQLa.PNG
+          url: /images/Capture-faaadf0c.PNG
           altText: Placeholder image
           styles:
             self:

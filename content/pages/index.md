@@ -72,7 +72,7 @@ sections:
       opacity: 47
       url: /images/abstract-feature2.svg
   - images:
-      - url: /images/sql.png
+      - url: /images/sql-5a7a26d6.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/power bi.png

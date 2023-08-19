@@ -227,7 +227,7 @@ sections:
             url: >-
               https://drive.google.com/file/d/1xek9tYoa5wL6kXtNEiAr1HebOjlnKYUJ/view?usp=sharing
       - image:
-          url: /images/SQL.PNG
+          url: /images/SQLass.PNG
           altText: Placeholder image
           styles:
             self:

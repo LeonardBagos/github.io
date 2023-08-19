@@ -258,7 +258,7 @@ sections:
             style: secondary
             elementId: ''
       - title: Data Science and Analytics
-        subtitle: SPARTA Data Science Pathway
+        subtitle: 'SPARTA Data Science Pathway,'
         image:
           url: /images/Capture-d7be6aa8.PNG
           altText: Placeholder image

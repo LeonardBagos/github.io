@@ -258,7 +258,7 @@ sections:
             style: secondary
             elementId: ''
       - title: Data Science and Analytics
-        subtitle: 'PWC thru Forage, March 2023'
+        subtitle: SPARTA Data Science Pathway
         image:
           url: /images/Screenshot 2023-04-02 005842.png
           altText: Placeholder image

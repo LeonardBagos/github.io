@@ -244,7 +244,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-        title: Data Analytics and Visualization
+        title: SQL for Business Users
         subtitle: Accenture thru Forage
         actions:
           - type: Button

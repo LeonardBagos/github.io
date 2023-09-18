@@ -114,8 +114,8 @@ sections:
           textAlign: center
       type: TitleBlock
     text: >+
-      <div style="text-align: center">Utilizing Microsoft Excel to Optimize
-      Production
+      <div style="text-align: center">***"Your Data Analyst, Your Business
+      Partner"***</div>
 
 
       </div>

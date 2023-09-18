@@ -106,36 +106,6 @@ sections:
       styles:
         self:
           textAlign: center
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/track-the-right-metrics-for-your-business.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: MY PERSONAL PROJECTS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
   - title:
       text: >-
         How Data Analysis Helped Me Reduce Rejection Rates in My Previous
@@ -186,6 +156,36 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/track-the-right-metrics-for-your-business.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: MY PERSONAL PROJECTS
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
   - title:
       text: Certificates
       color: text-primary

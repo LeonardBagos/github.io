@@ -112,6 +112,7 @@ sections:
         self:
           textAlign: center
           fontStyle: italic
+          fontWeight: 400
       type: TitleBlock
       text: 'Your Data Analyst, Your Business Partner"'
     text: |+

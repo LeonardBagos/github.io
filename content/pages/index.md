@@ -113,9 +113,8 @@ sections:
           textAlign: center
       type: TitleBlock
       text: 'Your Data Analyst, Your Business Partner"'
-    text: >+
-      <div style="text-align: center">***"Your Data Analyst, Your Business
-      Partner"***</div>
+    text: |+
+      <div style="text-align: center">******</div>
 
     media:
       url: 'https://youtu.be/h2y98ejwbGI'

@@ -110,7 +110,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: justify
       type: TitleBlock
       text: 'Your Data Analyst, Your Business Partner"'
     text: |+

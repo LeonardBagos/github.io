@@ -117,9 +117,6 @@ sections:
       <div style="text-align: center">***"Your Data Analyst, Your Business
       Partner"***</div>
 
-
-      </div>
-
     media:
       url: 'https://youtu.be/h2y98ejwbGI'
       controls: true

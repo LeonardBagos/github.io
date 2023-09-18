@@ -107,7 +107,7 @@ sections:
         self:
           textAlign: center
   - title:
-      text: 'Hello, I am your P'
+      text: I am your business
       color: text-dark
       styles:
         self:

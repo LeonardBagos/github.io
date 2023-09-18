@@ -114,7 +114,7 @@ sections:
           fontStyle: italic
           fontWeight: 400
       type: TitleBlock
-      text: 'Your Data Analyst, Your Business Partner"'
+      text: 'Your Data Analyst, Your Partner"'
     text: |+
       <div style="text-align: center">******</div>
 

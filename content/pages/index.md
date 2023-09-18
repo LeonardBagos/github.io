@@ -153,7 +153,7 @@ sections:
       </div>
 
     media:
-      url: 'https://youtu.be/fQZRdidd12E'
+      url: 'https://youtu.be/h2y98ejwbGI'
       controls: true
       aspectRatio: '16:9'
       styles:

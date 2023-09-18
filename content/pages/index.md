@@ -107,7 +107,6 @@ sections:
         self:
           textAlign: center
   - title:
-      text: I am your business
       color: text-dark
       styles:
         self:

@@ -107,9 +107,7 @@ sections:
         self:
           textAlign: center
   - title:
-      text: >-
-        How Data Analysis Helped Me Reduce Rejection Rates in My Previous
-        Company
+      text: 'Hello, I am your P'
       color: text-dark
       styles:
         self:

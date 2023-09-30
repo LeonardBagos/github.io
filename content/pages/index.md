@@ -253,7 +253,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - title: Data Science and Analytics
+      - title: Power BI Data Analyst Certificate
         subtitle: 'SPARTA Data Science Pathway, Aug 2023'
         image:
           url: /images/Screenshot 2023-09-30 212641.png

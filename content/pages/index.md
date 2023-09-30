@@ -253,37 +253,6 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - title: Data Science and Analytics
-        subtitle: 'SPARTA Data Science Pathway, Aug 2023'
-        image:
-          url: /images/Capture-faaadf0c.PNG
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-        actions:
-          - type: Button
-            label: View Certificate
-            altText: ''
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-            url: >-
-              https://drive.google.com/file/d/124adf6jWRWHbpr8Xj9LIL9nGPFnIMChx/view?usp=sharing
       - type: FeaturedItem
         title: Data Analytics Virtual Internship Program
         subtitle: 'KPMG thru Forage, March 2023'
@@ -316,6 +285,37 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - title: Data Science and Analytics
+        subtitle: 'SPARTA Data Science Pathway, Aug 2023'
+        image:
+          url: /images/Capture-faaadf0c.PNG
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+        actions:
+          - type: Button
+            label: View Certificate
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+            url: >-
+              https://drive.google.com/file/d/124adf6jWRWHbpr8Xj9LIL9nGPFnIMChx/view?usp=sharing
     variant: two-col-grid
     colors: bg-light-fg-dark
     styles:

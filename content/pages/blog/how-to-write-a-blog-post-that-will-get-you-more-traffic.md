@@ -7,7 +7,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/2307.q702.039.S.m005.c13.bus stop.jpg
+  url: /images/ddd.png
   altText: Thumbnail
   type: ImageBlock
   styles:

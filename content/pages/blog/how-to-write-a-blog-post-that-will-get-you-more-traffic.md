@@ -7,7 +7,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/call-center-best-practices.png
+  url: /images/traffic.png
   altText: Thumbnail
   type: ImageBlock
   styles:

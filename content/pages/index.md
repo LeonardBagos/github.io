@@ -62,6 +62,8 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+      text:
+        textAlign: center
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image

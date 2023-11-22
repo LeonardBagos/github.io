@@ -29,7 +29,7 @@ styles:
   self:
     flexDirection: col
     textAlign: center
-title: "PWC Virtual Experience: Call Center Trend\_ Analysis"
+title: Analyzing
 ---
 > *A Case Study from PwC Switzerland: Power BI Virtual Experience*
 

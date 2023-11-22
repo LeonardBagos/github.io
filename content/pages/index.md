@@ -13,13 +13,11 @@ sections:
           fontWeight: 700
     subtitle: Data Analyst
     text: >+
-      <div style="text-align: center">Welcome to my online portfolio! I am a
-      licensed Chemical Engineer turned Data Analyst with a passion for making
-      sense of complex data and identifying trends to help drive informed
-      decisions. I  just transitioned into this career this year and started
-      working as freelancing DA at Upwork. I’m dedicated to continuously
-      upskilling and staying up-to-date with the latest trends and technologies
-      in this rapidly evolving field. </div>
+      \<div style="text-align: center">Welcome to my online portfolio! I am a
+      licensed Chemical Engineer turned Data Analyst. I have a proven track
+      record of streamlining operations, elevating decision-making processes,
+      and optimizing efficiency by crafting data-driven dashboards, all of which
+      have significantly contributed to my clients' success.\</div>
 
     actions:
       - label: About Me

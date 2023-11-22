@@ -12,12 +12,13 @@ sections:
           textAlign: center
           fontWeight: 700
     subtitle: Data Analyst
-    text: >
-      Welcome to my online portfolio! I am a licensed Chemical Engineer turned
-      Data Analyst. I have a proven track record of streamlining operations,
-      elevating decision-making processes, and optimizing efficiency by crafting
-      data-driven dashboards, all of which have significantly contributed to my
-      clients' success.
+    text: >+
+      \<div style="text-align: center">Welcome to my online portfolio! I am a
+      licensed Chemical Engineer turned Data Analyst. I have a proven track
+      record of streamlining operations, elevating decision-making processes,
+      and optimizing efficiency by crafting data-driven dashboards, all of which
+      have significantly contributed to my clients' success.\</div>
+
     actions:
       - label: About Me
         altText: ''

@@ -17,7 +17,9 @@ sections:
       Data Analyst. I have a proven track record of streamlining operations,
       elevating decision-making processes, and optimizing efficiency by crafting
       data-driven dashboards, all of which have significantly contributed to my
-      clients' success.
+      clients' success. Each project in this portfolio reflects a dedication to
+      mastery and precision, as I aim to instill confidence in the quality of my
+      work.
     actions:
       - label: About Me
         altText: ''

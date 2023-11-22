@@ -411,43 +411,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: CarouselSection
-    title: null
-    items:
-      - title: "“Without\_data\_you’re just another person with an opinion.”"
-        subtitle: W. Edwards Deming
-        text: |+
-          Statistician, Professor, Author, Lecturer, and Consultant
-
-        image:
-          url: /images/ssa.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: center
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: 'If you have problems with your data, let me analyze them for you!'
       color: text-dark

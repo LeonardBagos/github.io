@@ -1,5 +1,5 @@
 ---
-title: "Analyzing of the Operating performance for\_ Ecommerce Company"
+title: "Analyzing the Operating performance for\_ Ecommerce Company"
 slug: project4
 date: '2023-02-20'
 excerpt: >-

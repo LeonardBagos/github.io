@@ -31,8 +31,8 @@ styles:
     textAlign: center
 title: Analyzing the Impacts of Daily Commuting in NCR using Python Machine Learning
 ---
-*Predicting the impacts of daily commuting and gauging commuter satisfaction though  Data Science, encompassing statistical
-analysis with Excel, feature engineering via SQL, and machine learning implemented with Python*
+> *Predicting the impacts of daily commuting and gauging commuter satisfaction though  Data Science, encompassing statistical
+> analysis with Excel, feature engineering via SQL, and machine learning implemented with Python*
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*UoDuXrOeO8SzLUtTHfqWLg.png)
 

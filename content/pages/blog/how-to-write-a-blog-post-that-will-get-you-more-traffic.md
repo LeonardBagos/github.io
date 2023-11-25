@@ -31,17 +31,15 @@ styles:
     textAlign: center
 title: Analyzing the Impacts of Daily Commuting in NCR using Python Machine Learning
 ---
-
-
 **Abstract:** *Predicting the impacts of daily commuting and gauging commuter satisfaction though Data Science, encompassing statistical analysis with Excel, feature engineering via SQL, and machine learning implemented with Python*
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*ogQJFT50-AFOAl6UOjBkHw.jpeg)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*ogQJFT50-AFOAl6UOjBkHw.jpeg)
 
 > **INTRODUCTION**
 
 The National Capital Region (NCR) in the Philippines is grappling with the consequences of rapid urbanization and dense population, particularly evident in the daily commuting experiences of millions of residents. This intricate web of commuting, involving diverse transportation modes, has evolved into a complex phenomenon, significantly impacting the lives of NCR inhabitants.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*-UGPVvJTGZR2RGUCuiAr0g.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*-UGPVvJTGZR2RGUCuiAr0g.png)
 
 As the NCR continues to grow, understanding the far-reaching impacts of daily commuting on aspects such as traffic, environment, and economy is crucial for crafting effective solutions to benefit the region’s residents.
 
@@ -49,39 +47,39 @@ As the NCR continues to grow, understanding the far-reaching impacts of daily co
 
 Facing the growing problems of traffic congestion, extended travel durations, mental adjustments, and health considerations, the focus of this analysis centers around three main goals.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:481/1*IrzrZXdrgg0FrK2r2rFIdw.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:481/1*IrzrZXdrgg0FrK2r2rFIdw.png)
 
 > **METHODOLOGY AND ANALYSIS**
 
 This analysis is structured to comprehend the impacts of daily commuting in the National Capital Region (NCR) of the Philippines. It follows various steps to examine the experiences, challenges, and effects of daily commuting in this region.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*jCKHHZPbxqotdkMOviKVpQ.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*jCKHHZPbxqotdkMOviKVpQ.png)
 
 The analysis utilizes the Data Analysis Tool pack in Microsoft Excel, which incorporates various statistical techniques.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:509/1*ZAwHEl56uQqB3BwHxWu4Ew.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:509/1*ZAwHEl56uQqB3BwHxWu4Ew.png)
 
 To enhance the analysis, technical improvements are made to the raw data using PostgreSQL. In PostgreSQL, the focus is on feature engineering, preparing the data for machine learning in Python.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:400/1*KlI0G5o-3M1m3adBiyAOuQ.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:400/1*KlI0G5o-3M1m3adBiyAOuQ.png)
 
 > **RESULTS AND DISCUSSIONS**
 
 In this section, we unveil the insights garnered from our analysis, offering a condensed overview of key findings.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*IxcKxo42nJi3Vqx-zb---g.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*IxcKxo42nJi3Vqx-zb---g.png)
 
 The findings highlight a significant dissatisfaction rate, with a striking 80% of the 40 respondents expressing discontent with the current transport system.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:570/1*hUUKdLCbTcCZPa_iepGDIA.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:570/1*hUUKdLCbTcCZPa_iepGDIA.png)
 
 Additionally, the study identifies four key impacts of commuting: Unbalanced Life and Time, Less Productivity and Tardiness, Exhaustion or Low Energy, and Health Risks. Notably, ‘Unbalanced Life and Time’ emerges as the most prominent concern, while only a small portion, 3%, express concerns about health risks.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:561/1*PK6Xba7ey-uKqgIfGyReTw.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:561/1*PK6Xba7ey-uKqgIfGyReTw.png)
 
 Among the notable findings, ‘Unbalanced Life and Time’ emerges as strongly correlated to exhaustion or low energy, overall satisfaction, and the rating score of commuters.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*Z2GvEAwhtCeVIQo3W-MruA.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*Z2GvEAwhtCeVIQo3W-MruA.png)
 
 The findings reveal that factors such as gender, transport modes, number of trips, and distance traveled have minimal impact on overall satisfaction levels. However, a crucial revelation emerges as the time spent commuting significantly influences satisfaction.
 
@@ -91,7 +89,7 @@ The findings reveal that factors such as gender, transport modes, number of trip
 
 In the feature engineering phase conducted in SQL, we implemented various techniques to enhance the data’s suitability for machine learning in Python. Here is a summary of the key feature engineering steps:
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*0wTaQlqZT-T2hUopHCaRaA.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*0wTaQlqZT-T2hUopHCaRaA.png)
 
 As a result of these feature engineering techniques, the dataset was enriched with 19 features, providing a diverse set of inputs for machine learning models.
 
@@ -159,13 +157,13 @@ df.head()
 
 The above is an example of what the dataset looks like. Below is a statistical description of the 19 dataset features.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*bYWM_VZUJ0JskhaeCFVQbQ.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*bYWM_VZUJ0JskhaeCFVQbQ.png)
 
 ```
 display(features.describe())
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*u7GB8l8JFioOfrK344t48Q.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*u7GB8l8JFioOfrK344t48Q.png)
 
 Visualize the distribution statistics; apply appropriate data preprocessing steps.
 
@@ -187,7 +185,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:444/1*pNYQ5mAB591OHePuH3zaHg.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:444/1*pNYQ5mAB591OHePuH3zaHg.png)
 
 Visualizing feature correlations.
 
@@ -197,7 +195,7 @@ sns.heatmap(features.corr(), cmap='RdYlGn', annot=True, fmt='.2f')
 plt.show()
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:453/1*ofmOJbSXk1AKCqYl8c0V_Q.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:453/1*ofmOJbSXk1AKCqYl8c0V_Q.png)
 
 Below is the distribution of Satisfied column after preprocessing.
 
@@ -212,7 +210,7 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:383/1*cfMtZKSpRDN2bfi8UI0gHQ.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:383/1*cfMtZKSpRDN2bfi8UI0gHQ.png)
 
 Feature transformation by PCA.
 
@@ -239,7 +237,7 @@ plt.ylabel('Cumulative Explained Variance')
 plt.show()
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:517/1*CYq_JIzpBUK6SdTPu1BRUQ.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:517/1*CYq_JIzpBUK6SdTPu1BRUQ.png)
 
 The above graph indicates that 100% of variance in the data can be achieved with just 16 dimensions instead of the 19 features.
 
@@ -252,7 +250,7 @@ plt.title('PCA - First Two Principal Components')
 plt.show()
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:518/1*46-MrIqsnu72ZbmV_Tgmyw.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:518/1*46-MrIqsnu72ZbmV_Tgmyw.png)
 
 As can be seen from the above plots, quite a good classification is achieved with just 2 dimensions.
 
@@ -293,7 +291,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:597/1*Fg9Lij_REwdsHw_ZY9-9eQ.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:597/1*Fg9Lij_REwdsHw_ZY9-9eQ.png)
 
 Among the classifiers, **Random Forest** exhibited the highest training score, reaching 0.9, showcasing its proficiency in capturing patterns within the training data. However, when assessed on the test set, Logistic Regression and XGBoost emerged as the top performers, both achieving an accuracy of 0.85.
 
@@ -317,7 +315,7 @@ for m in models:
     print(f"Model: {m['name']}\nBest Score = {m['best_score']}\nBest Params = {m['best_params']}\n{'=' * 30}")
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:405/1*CWn_enie0jZVfkmFEZxdvg.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:405/1*CWn_enie0jZVfkmFEZxdvg.png)
 
 Now, we can compare and evaluate the metrics for each models.
 
@@ -378,7 +376,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:600/1*4jSIaI6Kcsp7oFjTZngU-Q.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:600/1*4jSIaI6Kcsp7oFjTZngU-Q.png)
 
 The model evaluation results suggest that XGBoost is the most promising model for this classification task, displaying superior performance across multiple metrics. The best model is XGBoost, as it has the highest ROC-AUC (0.83), indicating better ability to distinguish between classes. XGBoost has the highest F1-Score (0.67), which is important if you want a balance between precision and recall. We also compare them through confusion matrices.
 
@@ -416,19 +414,19 @@ plt.tight_layout()
 plt.show()
 ```
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:440/1*oem6_twyqIMM8QbOLBymxQ.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:440/1*oem6_twyqIMM8QbOLBymxQ.png)
 
 > **CONCLUSIONS**
 
 The analysis on how daily commuting affects people in the National Capital Region (NCR) of the Philippines took a deep dive into various analyses. What follows is a summary of what we discovered, highlighting the many problems and possible ways to make daily commuting in the region.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*NgB98hoYmRJb4c-MTeisMQ.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*NgB98hoYmRJb4c-MTeisMQ.png)
 
 > **RECOMMENDATIONS**
 
 The following recommendations aim to bridge the gap between the findings of our study and real-world improvements in the daily lives of NCR commuters.
 
-\<div style="text-align: center">![](https://miro.medium.com/v2/resize:fit:630/1*pNdL7aPaibXbK31mEon3Sg.png)\</div>
+![](https://miro.medium.com/v2/resize:fit:630/1*pNdL7aPaibXbK31mEon3Sg.png)
 
 These recommendations aim to bridge the gap between research insights and practical applications, fostering a proactive approach towards enhancing the daily commuting experience in the National Capital Region.
 
@@ -439,6 +437,4 @@ Fallaria, A. J., de Jesus, R., Carpio, M., Jacinto, F. L., De Leon, L., Agapito,
 Mijares, A. C., Suzuki, M., & Yai, T. (2013). Equity Analysis of Urban Rail Fare Policy and Passenger Overload Delay: An International Comparison and the Case of Metro Manila MRT-3. Journal of the Eastern Asia Society for Transportation Studies, 10, 45–66.
 
 Polintan, B. (2022, October 24). Impacts of Worsening Traffic on Daily Commuters. Crown Asia Lifestyle Blog. Retrieved from <https://www.crownasia.com.ph/lifestyle-blog/impacts-of-worsening-traffic-to-daily-commuters/>
-
-
 

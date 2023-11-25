@@ -31,7 +31,8 @@ styles:
     textAlign: center
 title: Analyzing the Impacts of Daily Commuting in NCR using Python Machine Learning
 ---
-> *A Case Study from PwC Switzerland: Power BI Virtual Experience*
+> *Predicting the impacts of daily commuting and gauging commuter satisfaction though  Data Science, encompassing statistical
+> analysis with Excel, feature engineering via SQL, and machine learning implemented with Python*
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*UoDuXrOeO8SzLUtTHfqWLg.png)
 
@@ -63,7 +64,7 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 
 First, import the data to Power BI. Before we load the data, we need to make sure that the data is clean. Click Transform Data.
 
-I noticed that there are a lot of null values for the *speed of answer in the second’s *column, so I filtered to only show the null values and observed the data. As I can see in the filtered data, all calls were not answered therefore having null values for the average talk duration is valid. I didn’t change the null values to 0 because if the agent failed to answer the call, then there shouldn’t be any values for average talk duration and satisfaction rating. Making it zero will affect their KPI.
+I noticed that there are a lot of null values for the \*speed of answer in the second’s \*column, so I filtered to only show the null values and observed the data. As I can see in the filtered data, all calls were not answered therefore having null values for the average talk duration is valid. I didn’t change the null values to 0 because if the agent failed to answer the call, then there shouldn’t be any values for average talk duration and satisfaction rating. Making it zero will affect their KPI.
 
 ![](https://miro.medium.com/v2/resize:fit:700/0*Q9hyBtDRs-xaHZ79.png)
 
@@ -106,8 +107,4 @@ Based on the analysis, it appears that this call center has a relatively high ra
 4.  Focus on increasing customer satisfaction. This could involve regularly surveying customers to gather feedback and identify areas for improvement, implementing customer service best practices, and providing ongoing training and support for call center agents.
 
 5.  Consider implementing a call-back system for abandoned calls. This could allow customers who are unable to wait on hold to leave their contact information and request a call back at a more convenient time. This could help to reduce the number of abandoned calls and improve the overall customer experience.
-
-
-
-
 

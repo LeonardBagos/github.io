@@ -29,7 +29,9 @@ styles:
   self:
     flexDirection: col
     textAlign: center
-title: "Analyzing the Impacts of Daily Commuting in NCR, Philippines\_ \_ \_ \_ using Python Machine Learning"
+title: >-
+  Analyzing the Impacts of Daily Commuting in NCR, Philippines using Python
+  Machine Learning
 ---
 **Abstract:** *Predicting the impacts of daily commuting and gauging commuter satisfaction though Data Science, encompassing statistical analysis with Excel, feature engineering via SQL, and machine learning implemented with Python*
 

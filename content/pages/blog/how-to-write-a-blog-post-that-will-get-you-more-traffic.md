@@ -29,7 +29,7 @@ styles:
   self:
     flexDirection: col
     textAlign: center
-title: Analyzing
+title: Analyzing the Impact of Daily
 ---
 > *A Case Study from PwC Switzerland: Power BI Virtual Experience*
 

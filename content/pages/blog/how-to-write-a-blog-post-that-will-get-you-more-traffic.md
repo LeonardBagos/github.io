@@ -31,8 +31,8 @@ styles:
     textAlign: center
 title: Analyzing the Impacts of Daily Commuting in NCR using Python Machine Learning
 ---
-> Predicting the impacts of daily commuting and gauging commuter satisfaction though  Data Science, encompassing statistical
-> analysis with Excel, feature engineering via SQL, and machine learning implemented with Python
+> *Predicting the impacts of daily commuting and gauging commuter satisfaction though  Data Science, encompassing statistical
+> analysis with Excel, feature engineering via SQL, and machine learning implemented with Python*
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*UoDuXrOeO8SzLUtTHfqWLg.png)
 
@@ -107,3 +107,4 @@ Based on the analysis, it appears that this call center has a relatively high ra
 4.  Focus on increasing customer satisfaction. This could involve regularly surveying customers to gather feedback and identify areas for improvement, implementing customer service best practices, and providing ongoing training and support for call center agents.
 
 5.  Consider implementing a call-back system for abandoned calls. This could allow customers who are unable to wait on hold to leave their contact information and request a call back at a more convenient time. This could help to reduce the number of abandoned calls and improve the overall customer experience.
+

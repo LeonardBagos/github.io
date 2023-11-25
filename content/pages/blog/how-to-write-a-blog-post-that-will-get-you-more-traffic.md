@@ -31,21 +31,19 @@ styles:
     textAlign: center
 title: Analyzing the Impacts of Daily Commuting in NCR using Python Machine Learning
 ---
-> ```
-> Predicting the impacts of daily commuting and gauging commuter satisfaction though  Data Science, encompassing statistical analysis with Excel, feature engineering via SQL, and machine learning implemented with Python
-> ```
+> *A Case Study from PwC Switzerland: Power BI Virtual Experience*
 
-![](https://miro.medium.com/v2/resize:fit:700/1*UoDuXrOeO8SzLUtTHfqWLg.png)
+![](https://cdn-images-1.medium.com/max/720/1*UoDuXrOeO8SzLUtTHfqWLg.png)
 
-Interact with the dashboard here: <https://www.novypro.com/project/pwccallcentertrend>
+Interact with the dashboard here: <https://www.novypro.com/project/pwccallcentertrend>
 
-The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
+The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
 
 > **Task:**
 
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:
 
-![](https://miro.medium.com/v2/resize:fit:700/0*pic605yUKgnchwkF.png)
+![](https://cdn-images-1.medium.com/max/720/0*pic605yUKgnchwkF.png)
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
 
@@ -65,33 +63,33 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 
 First, import the data to Power BI. Before we load the data, we need to make sure that the data is clean. Click Transform Data.
 
-I noticed that there are a lot of null values for the \*speed of answer in the second’s \*column, so I filtered to only show the null values and observed the data. As I can see in the filtered data, all calls were not answered therefore having null values for the average talk duration is valid. I didn’t change the null values to 0 because if the agent failed to answer the call, then there shouldn’t be any values for average talk duration and satisfaction rating. Making it zero will affect their KPI.
+I noticed that there are a lot of null values for the *speed of answer in the second’s* column, so I filtered to only show the null values and observed the data. As I can see in the filtered data, all calls were not answered therefore having null values for the average talk duration is valid. I didn’t change the null values to 0 because if the agent failed to answer the call, then there shouldn’t be any values for average talk duration and satisfaction rating. Making it zero will affect their KPI.
 
-![](https://miro.medium.com/v2/resize:fit:700/0*Q9hyBtDRs-xaHZ79.png)
+![](https://cdn-images-1.medium.com/max/720/0*Q9hyBtDRs-xaHZ79.png)
 
-I noticed the *AvgTalkDuration* column is in Date/Time format which should be in duration. Change the data type to Time only, and then I added a new custom column and then subtracted the *AvgTalkDuration* column by 00:00:00.
+I noticed the *AvgTalkDuration* column is in Date/Time format which should be in duration. Change the data type to Time only, and then I added a new custom column and then subtracted the *AvgTalkDuration* column by 00:00:00.
 
-![](https://miro.medium.com/v2/resize:fit:700/0*WQjfUrpGqCTg7aRV.png)
+![](https://cdn-images-1.medium.com/max/720/0*WQjfUrpGqCTg7aRV.png)
 
-I renamed the new column to *Average Talk Duration* and changed the data type to duration and then show only seconds. The time column has date values in it, so I changed the data type to Time only.
+I renamed the new column to *Average Talk Duration* and changed the data type to duration and then show only seconds. The time column has date values in it, so I changed the data type to Time only.
 
 > Analysis:
 
 I have created measures to answer the questions and provide different KPI or metrics. To summarize all the stats of the agents, I decided to insert a table that will show their total calls, answered calls, queue time, call time, % Answered Calls and overall satisfaction rating.
 
-![](https://miro.medium.com/v2/resize:fit:700/1*yuc8GlGq7ONwcKEJom5Gmg.png)
+![](https://cdn-images-1.medium.com/max/720/1*yuc8GlGq7ONwcKEJom5Gmg.png)
 
 Then, I created a column and bar chart that shows the total calls, answered calls and resolved calls. It shows that every Monday and Saturday, agents have higher resolved calls than the rest of the day of the week.
 
-![](https://miro.medium.com/v2/resize:fit:700/1*BKiLlEUpyjLvPJoO7nG6Dw.png)
+![](https://cdn-images-1.medium.com/max/720/1*BKiLlEUpyjLvPJoO7nG6Dw.png)
 
 The last visualization is a doughnut chart showing all the call topics.
 
-![](https://miro.medium.com/v2/resize:fit:265/1*tEGeT1UEzx5UkLFjb8Yzfw.png)
+![](https://cdn-images-1.medium.com/max/720/1*tEGeT1UEzx5UkLFjb8Yzfw.png)
 
 Finally, I designed the dashboard and created the background using PowerPoint. Here is the final result:
 
-![](https://miro.medium.com/v2/resize:fit:700/1*UoDuXrOeO8SzLUtTHfqWLg.png)
+![](https://cdn-images-1.medium.com/max/720/1*UoDuXrOeO8SzLUtTHfqWLg.png)
 
 > Insights:
 
@@ -108,4 +106,8 @@ Based on the analysis, it appears that this call center has a relatively high ra
 4.  Focus on increasing customer satisfaction. This could involve regularly surveying customers to gather feedback and identify areas for improvement, implementing customer service best practices, and providing ongoing training and support for call center agents.
 
 5.  Consider implementing a call-back system for abandoned calls. This could allow customers who are unable to wait on hold to leave their contact information and request a call back at a more convenient time. This could help to reduce the number of abandoned calls and improve the overall customer experience.
+
+
+
+
 

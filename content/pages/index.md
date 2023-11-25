@@ -157,9 +157,9 @@ sections:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/track-the-right-metrics-for-your-business.md
     showThumbnail: true
     showDate: true

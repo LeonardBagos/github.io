@@ -29,7 +29,9 @@ styles:
   self:
     flexDirection: col
     textAlign: center
-title: Analyzing the Impact of Daily
+title: >-
+  Analyzing the Impacts of Daily Commuting in NCR using Advanced Machine
+  Learning
 ---
 > *A Case Study from PwC Switzerland: Power BI Virtual Experience*
 

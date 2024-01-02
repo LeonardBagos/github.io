@@ -283,7 +283,8 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-            url: 'https://coursera.org/share/a7386bb9dc1b333e57806ff5c79378fc'
+            url: >-
+              https://www.coursera.org/account/accomplishments/verify/R7MZGCG865SD
       - type: FeaturedItem
         title: Data Analytics Virtual Internship Program
         subtitle: 'KPMG thru Forage, March 2023'

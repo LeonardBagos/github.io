@@ -257,7 +257,7 @@ sections:
       - title: Power BI Data Analyst Certificate
         subtitle: 'Microsoft thru Coursera, Sept. 2023'
         image:
-          url: /images/Screenshot 2023-09-30 212641.png
+          url: /images/Datacert.png
           altText: Placeholder image
           styles:
             self:

@@ -241,7 +241,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-        title: SQL for Business Users
+        title: Data Scientist
         subtitle: 'SPARTA Data Science Pathway, Aug 2023'
         actions:
           - type: Button

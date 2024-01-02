@@ -38,7 +38,7 @@ sections:
         elementId: ''
         type: Link
         label: Download CV
-        url: 'https://bit.ly/3GBi5j8'
+        url: 'https://bit.ly/47ku4fv'
     media:
       url: /images/asaa.png
       altText: Unblock your team boost your time to production preview

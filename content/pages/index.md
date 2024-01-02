@@ -40,7 +40,7 @@ sections:
         label: Download CV
         url: 'https://bit.ly/3GBi5j8'
     media:
-      url: /images/assss.png
+      url: /images/asaa.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
